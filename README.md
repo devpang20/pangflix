@@ -1,11 +1,12 @@
 # PangFlix 
 
-## 일정(2주) 
-- 2020 12월 7일 ~ 20일
+## 설명
 
-## Screen
+- 넷플릭스 클론코딩
+
+## Screens
  
-- [] Home
-- [] TV Shows
-- [] Search
-- [] Detail
+- [ ] Home
+- [ ] TV Shows
+- [ ] Search
+- [ ] Detail
