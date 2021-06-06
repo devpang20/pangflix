@@ -1,1 +1,3 @@
-export default () => "detail";
+const Detail = "Detail"
+
+export default Detail;
